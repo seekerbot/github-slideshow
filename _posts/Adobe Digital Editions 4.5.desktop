@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Adobe Digital Editions 4.5
+Exec=env WINEPREFIX="/home/tim/.wine" wine-stable C:\\\\windows\\\\command\\\\start.exe /Unix /home/tim/.wine/dosdevices/c:/users/Public/Desktop/Adobe\\ Digital\\ Editions\\ 4.5.lnk
+Type=Application
+StartupNotify=true
+Path=/home/tim/.wine/dosdevices/c:/users/tim/Temp
+Icon=F4A2_DigitalEditions.0
+StartupWMClass=digitaleditions.exe
